@@ -14,8 +14,6 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
-
 💻 Full Stack Developer
 
 📱 Flutter Enthusiast
